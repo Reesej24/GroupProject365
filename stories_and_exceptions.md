@@ -1,10 +1,10 @@
 Group Project: User Stories and Exceptions
 
 Contributors:
-        Jake Reese
-        Matthew Dumag
-        Xain Lubin
-        Spencer Perley
+        Jake Reese, 
+        Matthew Dumag, 
+        Xain Lubin, 
+        Spencer Perley, 
 
 User Stories for course mapping application:
 
