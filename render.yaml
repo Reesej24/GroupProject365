@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: central-coast-cauldrons
+    name: group_project_365
     runtime: python
     plan: free
     autoDeploy: true
