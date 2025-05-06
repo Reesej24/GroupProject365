@@ -1,12 +1,12 @@
-#Group Project: User Stories and Exceptions
+Group Project: User Stories and Exceptions
 
-####Contributors:
-Jake Reese
-Matthew Dumag
-Xain Lubin
-Spencer Perley
+Contributors:
+        Jake Reese, 
+        Matthew Dumag, 
+        Xain Lubin, 
+        Spencer Perley, 
 
-###User Stories for course mapping application:
+User Stories for course mapping application:
 
 1.  As a student Majoring in Computer Science, I want to input my completed courses and target degree path, so that I can generate an optimal course schedule that allows me to graduate in the shortest time possible.
 
@@ -34,7 +34,7 @@ Spencer Perley
 12. As someone who is looking into school for the first time, and is not sure what degree will be best for the career I want to pursue, I want to input my career choice so that I can get the most efficient education plan to get the degree necessary for the position I want.
 
 
-###Exceptions:
+Exceptions:
 
 1.  Missing Course Database Entry
         If a user inputs a course that is not found in the college’s database, the application will display an error message and ask the user to verify course details.
