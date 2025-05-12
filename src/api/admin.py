@@ -8,7 +8,13 @@ router = APIRouter(
     tags=["admin"],
     dependencies=[Depends(auth.get_api_key)],
 )
-
+"""
+admin.py should do all of the admin work:
+    - add students to the students table if they don't exist in the system.
+    - add courses to the catalog
+    - add completed courses to a students transcript
+    - populate all related tables (GE areas, majors, degrees, concentrations)
+"""
 
 @router.post("/reset", status_code=status.HTTP_204_NO_CONTENT)
 def reset():
